@@ -1,9 +1,9 @@
 # coding: utf-8
-require './lib/rubysl/open/uri/version'
+require './lib/rubysl/open-uri/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "rubysl-open-uri"
-  spec.version       = RubySL::Open::Uri::VERSION
+  spec.version       = RubySL::OpenURI::VERSION
   spec.authors       = ["Brian Shirai"]
   spec.email         = ["brixen@gmail.com"]
   spec.description   = %q{Ruby standard library uri.}
